@@ -20,6 +20,8 @@
 - Reorder of a product by a user highly depends on the frequency and recency of past purchases.
 - Fruits and Vegetables are reordered much more than any other product.
 - Personal Care products are reordered very less.
+- **Gradient Boosting** gave the best result for the dataset.
+- **Probability Calibration** was needed since the dataset was highly imbalanced.
 
 ## Top 10 Feature Engineering:
 1. **purchase_weight_order_up:** Weight of user-product pair based on frequency of purchase and recency(order) of purchase.
