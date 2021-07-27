@@ -40,5 +40,7 @@ Click [here](https://www.kaggle.com/dataset/e3851032f9eb1cae54f06fc256d7608a5ea6
 
 Description of data provided by Kaggle: [Link](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b#file-data_description-md)
 
+Please do star the repo.
+
 You can find me on
 <a href="https://www.linkedin.com/in/me-shubham-agrawal"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="25" height="25" /></a>
