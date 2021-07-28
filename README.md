@@ -4,7 +4,7 @@
 
   *The score is very close to the competition's winner's score i.e. 0.409 . [Competition Leaderboard](https://www.kaggle.com/c/instacart-market-basket-analysis/leaderboard)
   
-* Tech and Algo used: Auto-Encoder, Logistic-Regression, Decision Tree, Random-Forest, AdaBoost, Gradient Boosting, Python, Tensorflow, Pandas, Sklearn, Matplolib, Seaborn, Plotly.
+* **Tech and Algo used:** Auto-Encoder, Logistic-Regression, Decision Tree, Random-Forest, AdaBoost, Gradient Boosting, Python, Tensorflow, Pandas, Sklearn, Matplolib, Seaborn, Plotly.
 
 # **Problem Overview:**
 
