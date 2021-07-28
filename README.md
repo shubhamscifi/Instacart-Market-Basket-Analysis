@@ -1,10 +1,12 @@
 # [Instacart-Market-Basket-Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/)  <a href="https://www.linkedin.com/in/me-shubham-agrawal"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="45" height="45" align="right" /></a>
 
-![Best F1-Score](https://github.com/shubhamscifi/Instacart-Market-Basket-Analysis/blob/main/Best%20F1-Score.png)
 
+<img src="https://github.com/shubhamscifi/Instacart-Market-Basket-Analysis/blob/main/Best%20F1-Score.png"/><br>
   *The score is very close to the competition's winner's score i.e. 0.409 . [Competition Leaderboard](https://www.kaggle.com/c/instacart-market-basket-analysis/leaderboard)
   
 * **Tech and Algo used:** Auto-Encoder, Logistic-Regression, Decision Tree, Random-Forest, AdaBoost, Gradient Boosting, Feature-Engineering, Python, Tensorflow, Pandas, Sklearn, Matplolib, Seaborn, Plotly.
+
+- Open repo in [VS Code Online](https://github1s.com/shubhamscifi/Instacart-Market-Basket-Analysis).
 
 # **Problem Overview:**
 
