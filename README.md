@@ -3,6 +3,8 @@
 ![Best F1-Score](https://github.com/shubhamscifi/Instacart-Market-Basket-Analysis/blob/main/Best%20F1-Score.png)
 
   *The score is very close to the competition's winner's score i.e. 0.409 . [Competition Leaderboard](https://www.kaggle.com/c/instacart-market-basket-analysis/leaderboard)
+  
+* Tech and Algo used: Auto-Encoder, Logistic-Regression, Decision Tree, Random-Forest, AdaBoost, Gradient Boosting, Python, Tensorflow, Pandas, Sklearn, Matplolib, Seaborn, Plotly.
 
 # **Problem Overview:**
 
@@ -40,7 +42,7 @@ Click [here](https://www.kaggle.com/dataset/e3851032f9eb1cae54f06fc256d7608a5ea6
 
 Description of data provided by Kaggle: [Link](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b#file-data_description-md)
 
-Please do star the repo.
+If you find this helpful, please do star the repo.
 
 You can find me on
 <a href="https://www.linkedin.com/in/me-shubham-agrawal"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="25" height="25" /></a>
