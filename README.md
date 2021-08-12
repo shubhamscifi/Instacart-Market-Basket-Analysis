@@ -6,7 +6,7 @@
   
 * **Tech and Algo used:** Auto-Encoder, Logistic-Regression, Decision Tree, Random-Forest, AdaBoost, Gradient Boosting, Feature-Engineering, Python, Tensorflow, Pandas, Sklearn, Matplolib, Seaborn, Plotly.
 
-- Open repo in [VS Code Online](https://github1s.com/shubhamscifi/Instacart-Market-Basket-Analysis).
+- Open repo in [VS Code Online](https://github.dev/shubhamscifi/Instacart-Market-Basket-Analysis).
 
 # **Problem Overview:**
 
